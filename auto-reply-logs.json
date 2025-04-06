@@ -3,5 +3,10 @@
     "timestamp": 1743973316494,
     "message": "User DEXTER logged in",
     "type": "info"
+  },
+  {
+    "timestamp": 1743973643446,
+    "message": "Started editing reply for trigger: hello",
+    "type": "info"
   }
 ]
