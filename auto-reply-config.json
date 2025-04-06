@@ -1,0 +1,9 @@
+{
+  "password": "dexter123",
+  "sessionTimeout": 14400000,
+  "maxLogs": 1000,
+  "enableEmojis": true,
+  "enableSinhala": true,
+  "adminEmail": "admin@dexter.com",
+  "lastUpdated": "2023-10-15T08:30:00Z"
+}
