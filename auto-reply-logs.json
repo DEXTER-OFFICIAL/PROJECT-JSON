@@ -3,10 +3,5 @@
     "timestamp": 1743973316494,
     "message": "User DEXTER logged in",
     "type": "info"
-  },
-  {
-    "timestamp": 1743973612289,
-    "message": "User logged out",
-    "type": "info"
   }
 ]
