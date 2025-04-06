@@ -13,5 +13,10 @@
     "timestamp": 1743973644717,
     "message": "Started editing reply for trigger: hello",
     "type": "info"
+  },
+  {
+    "timestamp": 1743973681659,
+    "message": "Updated reply: null → hello",
+    "type": "info"
   }
 ]
